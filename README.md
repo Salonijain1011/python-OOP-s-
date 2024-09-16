@@ -223,6 +223,22 @@ None</br>
  print(ord1>ord2)</br>
 
 output:- True</br>
+
+# exception handling</br>
+ a = (input("enter value:"))</br>
+ print(f"multiplication table of {a} is :")</br>
+ try:</br>
+  for i in range(1,11):</br>
+    print(f"{int(a)} x {i} = {int(a)*i}")</br>
+ except:</br>
+  print("Invalid input")</br>
+ print("end of program")</br>
+
+output:-enter value:hh</br>
+multiplication table of hh is :</br>
+Invalid input</br>
+end of program</br>
+
    
 
 
