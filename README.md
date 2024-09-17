@@ -202,8 +202,6 @@ output:-28.26</br>
 
  e2= Engineer("saloni","23")</br>
  print(e2.Showdetails())</br>
- # e1 = Employee("Accountant","data",2000)</br>
- # print(e1.Showdetails())</br>
 
 output:-role = Engineer</br>
 department = IT</br>
